@@ -10,7 +10,7 @@
 [![Documentation Status](https://readthedocs.org/projects/py-xbrl/badge/?version=latest)](https://py-xbrl.readthedocs.io/en/latest/?badge=latest)
       
 
-## XBRL-Parser
+## XBRL-Parser 
 
 Py-xbrl is a python library that allows the user to easily parse XBRL-Documents. Py-xbrl is primarily build 
 to parse Instance Documents (originally from the SEC) but can also be used to parse any type of XBRL 
